@@ -18,7 +18,7 @@ Features
 Reference Video
 
 🎥 You can preview the gameplay demo here:
-📎 OneDrive Video Link
+https://nealnd.github.io/nealni/
 
 Notes
 
